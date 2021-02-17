@@ -8,5 +8,5 @@ Fitur CMS (Cash Management System) untuk mendukung Transaksi Non Tunai yang haru
 </ul>
 <p>
 ![][.../.../gambar/1_gambar_utama.png]
- <img src=".../.../.../gambar/1_gambar_utama.png" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="https://github.com/rioda78/DokCmsSiskeudes/blob/main/dokumen/gambar/1_gambar_utama.png" alt="gambar utama" width="500" height="600"> 
 CMS Siskeudes mendukung mekanisme penggunaan SPP Definitif dengan pencairan bank. Mekanisme SPP panjar tetap dapat digunakan dengan pencairan tunai.
