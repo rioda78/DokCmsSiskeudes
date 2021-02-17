@@ -7,4 +7,5 @@ Fitur CMS (Cash Management System) untuk mendukung Transaksi Non Tunai yang haru
 <li> update status process (proses pemutakhiran status data).</li>
 </ul>
 <p>
+![][.../.../gambar/1. gambar utama.jpg]
 CMS Siskeudes mendukung mekanisme penggunaan SPP Definitif dengan pencairan bank. Mekanisme SPP panjar tetap dapat digunakan dengan pencairan tunai.
